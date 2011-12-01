@@ -1,0 +1,14 @@
+C:\Projetos\Fluxus FB One\VisaoSAP\bin\Debug\VisaoSAP.dll
+C:\Projetos\Fluxus FB One\VisaoSAP\bin\Debug\VisaoSAP.pdb
+C:\Projetos\Fluxus FB One\VisaoSAP\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Fluxus FB One\VisaoSAP\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Projetos\Fluxus FB One\VisaoSAP\obj\Debug\VisaoSAP.csproj.ResolveComReference.cache
+C:\Projetos\Fluxus FB One\VisaoSAP\obj\Debug\VisaoSAP.dll
+C:\Projetos\Fluxus FB One\VisaoSAP\obj\Debug\VisaoSAP.pdb
+C:\Projetos SAP\Fluxus FB One\VisaoSAP\bin\Debug\VisaoSAP.dll
+C:\Projetos SAP\Fluxus FB One\VisaoSAP\bin\Debug\VisaoSAP.pdb
+C:\Projetos SAP\Fluxus FB One\VisaoSAP\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos SAP\Fluxus FB One\VisaoSAP\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Projetos SAP\Fluxus FB One\VisaoSAP\obj\Debug\VisaoSAP.csproj.ResolveComReference.cache
+C:\Projetos SAP\Fluxus FB One\VisaoSAP\obj\Debug\VisaoSAP.dll
+C:\Projetos SAP\Fluxus FB One\VisaoSAP\obj\Debug\VisaoSAP.pdb

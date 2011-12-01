@@ -1,0 +1,16 @@
+C:\Projetos\Fluxus FB One\DataModuloSAP\bin\Debug\DataModuloSAP.dll
+C:\Projetos\Fluxus FB One\DataModuloSAP\bin\Debug\DataModuloSAP.pdb
+C:\Projetos\Fluxus FB One\DataModuloSAP\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Fluxus FB One\DataModuloSAP\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Projetos\Fluxus FB One\DataModuloSAP\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Projetos\Fluxus FB One\DataModuloSAP\obj\Debug\DataModuloSAP.csproj.ResolveComReference.cache
+C:\Projetos\Fluxus FB One\DataModuloSAP\obj\Debug\DataModuloSAP.dll
+C:\Projetos\Fluxus FB One\DataModuloSAP\obj\Debug\DataModuloSAP.pdb
+C:\Projetos SAP\Fluxus FB One\DataModuloSAP\bin\Debug\DataModuloSAP.dll
+C:\Projetos SAP\Fluxus FB One\DataModuloSAP\bin\Debug\DataModuloSAP.pdb
+C:\Projetos SAP\Fluxus FB One\DataModuloSAP\obj\Debug\ResolveAssemblyReference.cache
+C:\Projetos SAP\Fluxus FB One\DataModuloSAP\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Projetos SAP\Fluxus FB One\DataModuloSAP\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Projetos SAP\Fluxus FB One\DataModuloSAP\obj\Debug\DataModuloSAP.csproj.ResolveComReference.cache
+C:\Projetos SAP\Fluxus FB One\DataModuloSAP\obj\Debug\DataModuloSAP.dll
+C:\Projetos SAP\Fluxus FB One\DataModuloSAP\obj\Debug\DataModuloSAP.pdb

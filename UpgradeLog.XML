@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FluxusFBOne">
+</Property><Property Name="Solution File" Value="C:\Users\Larissa\Desktop\Inusitta Hoje\Fluxus FB One\FluxusFBOne.sln">
+</Property><Property Name="Date" Value="quarta-feira, 3 de agosto de 2011">
+</Property><Property Name="Time" Value="00:26">
+</Property></Properties><Event ErrorLevel="0" Project="FluxusFBOne" Source="FluxusFBOne.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FluxusFBOne" Source="FluxusFBOne.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FluxusFBOne.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FluxusFBOne.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FluxusFBOne" Source="FluxusFBOne.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

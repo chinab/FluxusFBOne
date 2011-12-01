@@ -1,0 +1,48 @@
+C:\Projetos\Fluxus FB One\FluxusFBOne2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Fluxus FB One\FluxusFBOne2\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Projetos\Fluxus FB One\FluxusFBOne2\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Projetos\Fluxus FB One\FluxusFBOne2\obj\x86\Debug\FluxusFBOne.csproj.ResolveComReference.cache
+C:\Projetos\Fluxus FB One\FluxusFBOne2\obj\x86\Debug\FluxusFBOne2.Properties.Resources.resources
+C:\Projetos\Fluxus FB One\FluxusFBOne2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projetos\Fluxus FB One\FluxusFBOne2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projetos\Fluxus FB One\FluxusFBOne2\bin\Debug\FluxusFBOne2.exe
+C:\Projetos\Fluxus FB One\FluxusFBOne2\bin\Debug\FluxusFBOne2.pdb
+C:\Projetos\Fluxus FB One\FluxusFBOne2\bin\Debug\VisaoSAP.dll
+C:\Projetos\Fluxus FB One\FluxusFBOne2\bin\Debug\VisaoSAP.pdb
+C:\Projetos\Fluxus FB One\FluxusFBOne2\obj\x86\Debug\FluxusFBOne2.exe
+C:\Projetos\Fluxus FB One\FluxusFBOne2\obj\x86\Debug\FluxusFBOne2.pdb
+C:\Projetos\Fluxus FB One\FluxusFBOne\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Projetos\Fluxus FB One\FluxusFBOne\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Projetos\Fluxus FB One\FluxusFBOne\obj\x86\Debug\FluxusFBOne.csproj.ResolveComReference.cache
+C:\Projetos\Fluxus FB One\FluxusFBOne\obj\x86\Debug\FluxusFBOne2.exe
+C:\Projetos\Fluxus FB One\FluxusFBOne\obj\x86\Debug\FluxusFBOne2.pdb
+C:\Projetos\Fluxus FB One\FluxusFBOne\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Fluxus FB One\FluxusFBOne\obj\x86\Debug\FluxusFBOne2.Properties.Resources.resources
+C:\Projetos\Fluxus FB One\FluxusFBOne\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projetos\Fluxus FB One\FluxusFBOne\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projetos\Fluxus FB One\FluxusFBOne\bin\Debug\FluxusFBOne2.exe
+C:\Projetos\Fluxus FB One\FluxusFBOne\bin\Debug\FluxusFBOne2.pdb
+C:\Projetos\Fluxus FB One\FluxusFBOne\bin\Debug\VisaoSAP.dll
+C:\Projetos\Fluxus FB One\FluxusFBOne\bin\Debug\VisaoSAP.pdb
+C:\Projetos SAP\Fluxus FB One\FluxusFBOne\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Projetos SAP\Fluxus FB One\FluxusFBOne\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Projetos SAP\Fluxus FB One\FluxusFBOne\obj\x86\Debug\FluxusFBOne.csproj.ResolveComReference.cache
+C:\Projetos SAP\Fluxus FB One\FluxusFBOne\obj\x86\Debug\FluxusFBOne2.exe
+C:\Projetos SAP\Fluxus FB One\FluxusFBOne\obj\x86\Debug\FluxusFBOne2.pdb
+C:\Projetos SAP\Fluxus FB One\FluxusFBOne\bin\Debug\FluxusFBOne2.exe
+C:\Projetos SAP\Fluxus FB One\FluxusFBOne\bin\Debug\FluxusFBOne2.pdb
+C:\Projetos SAP\Fluxus FB One\FluxusFBOne\bin\Debug\VisaoSAP.dll
+C:\Projetos SAP\Fluxus FB One\FluxusFBOne\bin\Debug\VisaoSAP.pdb
+C:\Projetos SAP\Fluxus FB One\FluxusFBOne\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projetos SAP\Fluxus FB One\FluxusFBOne\obj\x86\Debug\FluxusFBOne2.Properties.Resources.resources
+C:\Projetos SAP\Fluxus FB One\FluxusFBOne\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projetos SAP\Fluxus FB One\FluxusFBOne\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projetos\Fluxus FB One\FluxusFBOne\bin\Debug\DataModuloSAP.dll
+C:\Projetos\Fluxus FB One\FluxusFBOne\bin\Debug\DataModuloSAP.pdb
+C:\Projetos SAP\Fluxus FB One\FluxusFBOne\bin\Debug\DataModuloSAP.dll
+C:\Projetos SAP\Fluxus FB One\FluxusFBOne\bin\Debug\DataModuloSAP.pdb
+C:\Users\Larissa\Desktop\Fluxus FB One\FluxusFBOne\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Larissa\Desktop\Fluxus FB One\FluxusFBOne\obj\x86\Debug\Interop.SAPbouiCOM.dll
+C:\Users\Larissa\Desktop\Fluxus FB One\FluxusFBOne\obj\x86\Debug\FluxusFBOne.csproj.ResolveComReference.cache
+C:\Users\Larissa\Desktop\Fluxus FB One\FluxusFBOne\obj\x86\Debug\FluxusFBOne2.exe
+C:\Users\Larissa\Desktop\Fluxus FB One\FluxusFBOne\obj\x86\Debug\FluxusFBOne2.pdb
